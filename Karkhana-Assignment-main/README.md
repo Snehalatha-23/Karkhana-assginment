@@ -2,11 +2,6 @@
 
 A modern, responsive web application for tracking project costs and expenses. Built with React and Firebase, this application provides a seamless experience for managing project budgets and expenses.
 
-## 🔗 Links
-
-- **Live Demo:** [Project Cost Tracker](https://karkhana-assignment-smoky.vercel.app/login)
-- **GitHub Repository:** [Karkhana-Assignment](https://github.com/Nikhilgup12/Karkhana-Assignment.git)
-
 ## 🌟 Features
 
 - **User Authentication**
@@ -126,10 +121,6 @@ A modern, responsive web application for tracking project costs and expenses. Bu
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
