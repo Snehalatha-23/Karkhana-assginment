@@ -131,12 +131,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Author
-
-Nikhil Gupta
-- GitHub: [@Nikhilgup12](https://github.com/Nikhilgup12)
-- LinkedIn: [Nikhil Gupta](https://linkedin.com/in/nikhilgup12)
-
 ## 🙏 Acknowledgments
 
 - Chakra UI for the component library
