@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCvARsSc9wVx1ypnqkYxAlcswvRZ4efv3U",
-  authDomain: "project-cost-tracker-e9485.firebaseapp.com",
-  projectId: "project-cost-tracker-e9485",
-  storageBucket: "project-cost-tracker-e9485.appspot.com",
-  messagingSenderId: "355390830435",
-  appId: "1:355390830435:web:dde874ecdc286167d74556",
-  measurementId: "G-VGHFBN4SHL"
+    apiKey: "AIzaSyBGP58HupMkZ1P7bl5s1q1fzXK3fDa3o6U",
+  authDomain: "project-cost-tracker-e2439.firebaseapp.com",
+  projectId: "project-cost-tracker-e2439",
+  storageBucket: "project-cost-tracker-e2439.firebasestorage.app",
+  messagingSenderId: "687744709020",
+  appId: "1:687744709020:web:d3a8b215569d0ca2591859",
+  measurementId: "G-QLCHHEPGVM"
 };
 
 const app = initializeApp(firebaseConfig);
